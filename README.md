@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/cover.png" alt="Project Cover" />
+</p>
+<p align="center">
+  <b>Production-ready project showcase</b>
+</p>
 <div align="center">
 
 # Binora ERP Case Study
